@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388934263143",
+    "firebase_url": "https://talkingapp-3102f.firebaseio.com",
+    "project_id": "talkingapp-3102f",
+    "storage_bucket": "talkingapp-3102f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388934263143:android:ed6afb6acfbde087",
+        "android_client_info": {
+          "package_name": "com.example.halima.talkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388934263143-nt1mbj4c5ilaif8tsba6uq6v9q0bl7pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halima.talkingapp",
+            "certificate_hash": "b62027d91297ebe5dab46a0eedfcec3d057c1fa6"
+          }
+        },
+        {
+          "client_id": "388934263143-uvlabvm98lv5ct48orr15ubisjmn8aqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqMEK1jPaiOUD_z4cogfIXO2pdE0AmVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388934263143-uvlabvm98lv5ct48orr15ubisjmn8aqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

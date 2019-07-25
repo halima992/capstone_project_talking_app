@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/app_widget"
+    android:initialLayout="@layout/app_widget"
+    android:previewImage="@drawable/the_talk_logo"
+    android:minWidth="@dimen/min_width_widget"
+    android:minHeight="@dimen/min_high_widget"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="3600000"
+    android:widgetCategory="home_screen"></appwidget-provider>

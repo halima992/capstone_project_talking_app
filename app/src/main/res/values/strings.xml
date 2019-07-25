@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Talk</string>
+    <string name="sign_out">SignOut</string>
+    <string name="users_feed">Feeds</string>
+    <string name="users">Users</string>
+    <string name="my_post">My Post</string>
+    <string name="email">Email...</string>
+    <string name="passward">passward...</string>
+    <string name="confirm_passward">confirm passward...</string>
+    <string name="button_sign_up">create Account</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="need_account">can\'t Access to your account , click here if you need one </string>
+    <string name="logo_talking">Logo app </string>
+    <string name="save">Save</string>
+    <string name="user_name">full name</string>
+    <string name="user_id">user</string>
+    <string name="send_button">send</string>
+    <string name="user_picture">user picture</string>
+   <string name="user_info">user information</string>
+    <string name="dialog_connection_to_internet">Loading...</string>
+    <!--Toast text-->
+    <string name="toast_enter_post">Please Enter your post...</string>
+    <string name="toast_add_new_post">New post is added successfully</string>
+    <string name="toast_error_update_post">Error happened during updating your post</string>
+    <string name="toast_update_user_posts">Your posts is update successfully</string>
+    <string name="toast_enter_user_name">Please enter your username...</string>
+    <string name="toast_enter_full_name">"Please enter your full name...</string>
+    <string name="toast_enter_email">Please enter your email...</string>
+    <string name="toast_enter_password">"Please enter your password...</string>
+    <string name="toast_create_account">your Account is created</string>
+    <string name="toast_error_occurred">Error occurred because </string>
+    <string name="toast_confirm_password">please confirm your password</string>
+    <string name="toast_error_match">the confirm of password not match with the password</string>
+    <string name="toast_success_authenticate"> your authenticated is success</string>
+    <string name="toast_connected_to_internet">The Connection with internet</string>
+    <string name="toast_not_connected_to_internet">There is no connection to internet</string>
+
+
+
+</resources>
